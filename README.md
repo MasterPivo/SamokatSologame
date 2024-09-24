@@ -1,0 +1,2 @@
+# SamokatSologame
+ firs version
